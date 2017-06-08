@@ -1,2 +1,1 @@
-Memory go to check and train your memory . This game is about matching cards in different modes such as combact or solo mode. You can 
-play vs PC in tree difficulty levels, PC player using AI in order to remember.
+There are three packages one for GUI one fro gameplay and the thrid for the images . There is player class and cpu player class . Also from gameplay there are modes such as combact mode, modeasker , mode dont choose etc.
